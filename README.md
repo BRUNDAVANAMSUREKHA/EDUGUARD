@@ -18,10 +18,6 @@
 
 <br/>
 
-[![GitHub Issues](https://img.shields.io/badge/Issues-Report_Here-red?style=for-the-badge&logo=github)](https://github.com/BRUNDAVANAMSUREKHA/EDUGUARD/issues)
-[![GitHub Stars](https://img.shields.io/github/stars/BRUNDAVANAMSUREKHA/EDUGUARD?style=for-the-badge&logo=github&color=yellow)](https://github.com/BRUNDAVANAMSUREKHA/EDUGUARD/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/BRUNDAVANAMSUREKHA/EDUGUARD?style=for-the-badge&logo=github&color=blue)](https://github.com/BRUNDAVANAMSUREKHA/EDUGUARD/forks)
-
 </div>
 
 ---
